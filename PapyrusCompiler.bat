@@ -1,11 +1,8 @@
 @ECHO off
-SET argument=%1
+SET compiler=%1"\Papyrus compiler\PapyrusCompiler.exe"
+ECHO Compiler %compiler%
 
-REM User
-REM ===========================================================
-SET falloutDirectory=D:\Games\Steam\SteamApps\common\Fallout 4\
-
-REM Compiler
-REM ===========================================================
-ECHO Compiling %argument%
-"%falloutDirectory%Papyrus compiler\PapyrusCompiler.exe" %argument%
+SET argument=%2
+ECHO Argument %argument%
+ECHO.
+%compiler% %argument%

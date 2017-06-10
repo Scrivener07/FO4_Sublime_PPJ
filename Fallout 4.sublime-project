@@ -11,6 +11,7 @@
 			"cmd":
 			[
 				"$project_path\\PapyrusCompiler.bat",
+				"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4",
 				"$file"
 			],
 			"name": "Papyrus - Compile Project"
@@ -42,11 +43,12 @@
 				"*.exe",
 				"*.esm",
 				"*.esp",
+				"*.ba2",
 				"*.cdx",
 				"*.csg",
 				"*.cdf",
 				"*.pex",
-				"*.ba2",
+				"*.swf",
 				"desktop.ini",
 				"Fallout 4/installscript.vdf",
 				"Fallout 4/Fallout4_Default.ini",
