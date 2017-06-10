@@ -1,0 +1,87 @@
+{
+	"settings":
+	{
+		"ensure_newline_at_eof_on_save": true,
+		"tab_size": 4,
+		"trim_trailing_white_space_on_save": true
+	},
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"$project_path\\PapyrusCompiler.bat",
+				"$file"
+			],
+			"name": "Papyrus - Compile Project"
+		}
+	],
+	"folders":
+	[
+		{
+			"name": "Logs",
+			"path": "C:\\Users\\Scrivener07\\Documents\\My Games\\Fallout4"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"*.7z"
+			],
+			"folder_exclude_patterns":
+			[
+				".hidden",
+				"Bain Converters",
+				"Fallout 4*"
+			],
+			"name": "Repository",
+			"path": "D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Repository\\Bash Installers"
+		},
+		{
+			"file_exclude_patterns":
+			[
+				"*.exe",
+				"*.esm",
+				"*.esp",
+				"*.cdx",
+				"*.csg",
+				"*.cdf",
+				"*.pex",
+				"*.ba2",
+				"desktop.ini",
+				"Fallout 4/installscript.vdf",
+				"Fallout 4/Fallout4_Default.ini",
+				"Fallout 4/CreationKit.ini",
+				"Fallout 4/CreationKitPrefs.ini",
+				"Fallout 4/EditorTips.txt",
+				"Fallout 4/CustomControlMap.txt",
+				"Fallout 4/Ultra.ini",
+				"Fallout 4/High.ini",
+				"Fallout 4/Medium.ini",
+				"Fallout 4/Low.ini",
+				"Fallout 4/nvdebris.txt"
+			],
+			"folder_exclude_patterns":
+			[
+				"Fallout 4/_CommonRedist",
+				"Fallout 4/Backup",
+				"Fallout 4/Fallout4*",
+				"Fallout 4/lex",
+				"Fallout 4/Mods",
+				"Fallout 4/Output",
+				"Fallout 4/Repository",
+				"Fallout 4/Papyrus Compiler",
+				"Fallout 4/Tools",
+				"Fallout 4/Data/LSData",
+				"Fallout 4/Data/Video",
+				"Fallout 4/Data/Meshes",
+				"Fallout 4/Data/Textures",
+				"Fallout 4/Data/Materials",
+				"Fallout 4/Data/INI Tweaks",
+				"Fallout 4/Data/Layouts",
+				"Fallout 4/Data/Sound"
+			],
+			"name": "Fallout 4",
+			"path": "D:\\Games\\Steam\\SteamApps\\common\\Fallout 4"
+		}
+	]
+}

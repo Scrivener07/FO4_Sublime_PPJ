@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Se",
+				"SessionData"
+			],
+			[
+				"fun",
+				"fun\tFunction Snippet"
+			],
+			[
+				"prop",
+				"propFull\tProperty (with get and set)"
+			],
+			[
+				"hu",
+				"humanScore"
+			],
+			[
+				"ShowSc",
+				"ShowScoreLoser"
+			],
+			[
+				"Idle",
+				"IdlePhase"
+			],
+			[
+				"Idl",
+				"IdlePhase"
+			],
+			[
+				"register",
+				"registerforplayersleep\tScriptObject"
+			],
+			[
+				"Script",
+				"ScriptObject"
+			],
+			[
+				"deal",
+				"Deallocate"
+			],
+			[
+				"Ref",
+				"ReferenceData"
+			],
+			[
+				"De",
+				"Deallocate"
+			],
+			[
+				"Gam",
+				"Gambling_BlackJack_DeckMarker"
+			],
+			[
+				"Exit",
+				"ExitingPhase"
+			],
+			[
+				"Blac",
+				"BlackJack"
+			],
+			[
+				"Contain",
+				"Contains"
+			],
+			[
+				"onacti",
+				"onactivate-REM\tRemote ObjectReference.OnActivate"
+			],
+			[
+				"trace",
+				"trace\tDebug"
+			],
+			[
+				"Di",
+				"GetDifficultly"
+			],
+			[
+				"Shu",
+				"Shuffler"
+			],
+			[
+				"Sh",
+				"Shuffler"
+			],
+			[
+				"new",
+				"newDeck"
+			],
+			[
+				"ins",
+				"instance"
+			],
+			[
+				"onin",
+				"oninit\tEvent ScriptObject.OnInit"
+			],
+			[
+				"Conta",
+				"Contains"
+			],
+			[
+				"Fac",
+				"Factory"
+			],
+			[
+				"Deck",
+				"DeckReference"
+			],
+			[
+				"Dis",
+				"Disable"
+			],
+			[
+				"Dec",
+				"DeckReference"
+			],
+			[
+				"allocat",
+				"Allocating"
+			],
+			[
+				"Allo",
+				"Allocating"
+			],
+			[
+				"Alloca",
+				"AllocatingState"
+			],
+			[
+				"Get",
+				"GetPlugin"
+			],
+			[
+				"Auto",
+				"AutoReadOnly"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"resu",
+				"result"
+			],
+			[
+				"luck",
+				"luckMax"
+			],
+			[
+				"Dep",
+				"DepthMax"
+			],
+			[
+				"Proper",
+				"Properties"
+			],
+			[
+				"Col",
+				"Collection"
+			],
+			[
+				"Cards",
+				"Cards_01"
+			],
+			[
+				"In",
+				"Invalid"
+			],
+			[
+				"Objec",
+				"ObjectReference"
+			],
+			[
+				"Acti",
+				"Activator"
+			],
+			[
+				"dim",
+				"Dimension"
+			],
+			[
+				"El",
+				"Elements"
+			],
+			[
+				"settex",
+				"setactivatetextoverride\tObjectReference"
+			],
+			[
+				"Gamb",
+				"Gambling_BlackJack_Origin"
+			],
+			[
+				"find",
+				"find\tArray"
+			],
+			[
+				"refere",
+				"reference"
+			],
+			[
+				"Com",
+				"Competitors"
+			],
+			[
+				"Seat",
+				"Seats"
+			],
+			[
+				"Player",
+				"PlayerA"
+			],
+			[
+				"clear",
+				"clear\tArray"
+			],
+			[
+				"L",
+				"Length"
+			],
+			[
+				"Con",
+				"Controller"
+			],
+			[
+				"onactivate",
+				"onactivate\tEvent ObjectReference.OnActivate"
+			],
+			[
+				"Opt",
+				"OptionStand"
+			],
+			[
+				"Is",
+				"IsBusy"
+			],
+			[
+				"Busy",
+				"BusyState"
+			],
+			[
+				"Scor",
+				"ScoringState"
+			],
+			[
+				"Debug",
+				"DebugOnly"
+			],
+			[
+				"Lo",
+				"Lock"
+			],
+			[
+				"Rest",
+				"RestoreState"
+			],
+			[
+				"abSA",
+				"abTranslate"
+			],
+			[
+				"Hand",
+				"Hand"
+			],
+			[
+				"han",
+				"HandIndex"
+			],
+			[
+				"Dea",
+				"DealCard"
+			],
+			[
+				"min",
+				"Minimum"
+			],
+			[
+				"Jok",
+				"Joker01"
+			],
+			[
+				"On",
+				"OnPhase"
+			],
+			[
+				"registerforrem",
+				"registerforremoteevent\tScriptObject"
+			],
+			[
+				"Play",
+				"PlayingState"
+			],
+			[
+				"Wager",
+				"WageringState"
+			],
+			[
+				"Star",
+				"StartingState"
+			],
+			[
+				"Prop",
+				"Properties"
+			],
+			[
+				"Cu",
+				"CurrentRef"
+			],
+			[
+				"objec",
+				"ObjectReference"
+			],
+			[
+				"unregisterforall",
+				"unregisterforallremoteevents\tScriptObject"
+			],
+			[
+				"curr",
+				"CurrentRef"
+			],
+			[
+				"Cur",
+				"CurrentIndex"
+			],
+			[
+				"Oj",
+				"ObjectReference"
+			],
+			[
+				"ontranslationf",
+				"ontranslationfailed-REM\tRemote ObjectReference.OnTranslationFailed"
+			],
+			[
+				"ontranslationcomplete",
+				"ontranslationcomplete-REM\tRemote ObjectReference.OnTranslationComplete"
+			],
+			[
+				"for",
+				"forcefirstperson\tGame"
+			],
+			[
+				"Dealing",
+				"DealingState"
+			],
+			[
+				"Read",
+				"AutoReadOnly"
+			],
+			[
+				"Sea",
+				"SeatPlayer"
+			],
+			[
+				"Ra",
+				"Rank"
+			],
+			[
+				"Else",
+				"ElseIf"
+			],
+			[
+				"Bl",
+				"BlackJack"
+			],
+			[
+				"score",
+				"PlayerScore"
+			],
+			[
+				"gambl",
+				"Gambling_BlackJack_MessageWinNatural"
+			],
+			[
+				"dealing",
+				"DealingState"
+			],
+			[
+				"Win",
+				"WinningState"
+			],
+			[
+				"onendsta",
+				"onendstate\tEvent ScriptObject.OnEndState"
+			],
+			[
+				"onendst",
+				"onendstate\tEvent ScriptObject.OnEndState"
+			],
+			[
+				"onbeginst",
+				"onbeginstate\tEvent ScriptObject.OnBeginState"
+			],
+			[
+				"Phase",
+				"PhaseEvent"
+			],
+			[
+				"onbegin",
+				"onbeginstate\tEvent ScriptObject.OnBeginState"
+			],
+			[
+				"Draw",
+				"DrawTotal"
+			],
+			[
+				"ismenu",
+				"isinmenumode\tUtility"
+			],
+			[
+				"gamb",
+				"Gambling_CardDeck"
+			],
+			[
+				"ak",
+				"akBaseObject"
+			],
+			[
+				"oniteme",
+				"onitemequipped-REM\tRemote Actor.OnItemEquipped"
+			],
+			[
+				"onitem",
+				"onitemequipped\tEvent Actor.OnItemEquipped"
+			],
+			[
+				"getplayer",
+				"getplayer\tGame"
+			],
+			[
+				"Game",
+				"Gambling_CardDeck"
+			],
+			[
+				"add",
+				"additem\tObjectReference"
+			],
+			[
+				"clea",
+				"clear\tArray"
+			],
+			[
+				"create",
+				"CreateSuit"
+			],
+			[
+				"Q",
+				"Queen"
+			],
+			[
+				"Cl",
+				"Club01"
+			],
+			[
+				"Clu",
+				"Clubs"
+			],
+			[
+				"Cons",
+				"Console"
+			],
+			[
+				"Scr",
+				"ScriptObject"
+			],
+			[
+				"oneffec",
+				"oneffectfinish\tEvent ActiveMagicEffect.OnEffectFinish"
+			],
+			[
+				"Actor",
+				"ActorValue"
+			],
+			[
+				"onque",
+				"onquestshutdown\tEvent Quest.OnQuestShutdown"
+			],
+			[
+				"onquest",
+				"onquestinit\tEvent Quest.OnQuestInit"
+			],
+			[
+				"onmenu",
+				"onmenuopencloseevent\tEvent ScriptObject.OnMenuOpenCloseEvent"
+			],
+			[
+				"My",
+				"MyList"
+			],
+			[
+				"gr",
+				"group\tGroup Snippet"
+			],
+			[
+				"getform",
+				"getformfromfile\tGame"
+			],
+			[
+				"getstate",
+				"getstate\tScriptObject"
+			],
+			[
+				"Sca",
+				"ScanningState"
+			],
+			[
+				"Scann",
+				"ScanningState"
+			],
+			[
+				"traceuser",
+				"traceuser\tDebug"
+			]
+		]
+	},
+	"build_system": "Packages/PapyrusF4/PapyrusF4.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"clear",
+				"SublimePapyrus: Clear error highlights"
+			],
+			[
+				"clear error",
+				"SublimePapyrus: Clear error highlights"
+			],
+			[
+				"Package Control ",
+				"Package Control: List Packages"
+			],
+			[
+				"SublimePapyrus: ",
+				"SublimePapyrus: Open script"
+			],
+			[
+				"Sublime",
+				"SublimePapyrus: Open script"
+			],
+			[
+				"SublimePap",
+				"SublimePapyrus: Insert menu name (Skyrim - SKSE)"
+			],
+			[
+				"Package Control: Remove Pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: Re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Remove Package"
+			],
+			[
+				"SublimePapyrus: Open",
+				"SublimePapyrus: Open parent script"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"SublimePapyrus",
+				"SublimePapyrus: Create default INI file"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 520.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Sound/Voice/Processing/FonixData.cdf",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/Players.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/Cards.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/Table.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/GUI.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/Rules.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Component.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Player.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotSwatter.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/Human.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/Dealer.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotWhale.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotC.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotD.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Controllers/Motion.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Motion/Controller.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotA.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Build.ppj",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Game.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/Base/InputEnableLayer.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/BotB.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Object.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Deck.psc",
+		"/C/Users/Scrivener07/Downloads/errorlog.txt",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/ObjectType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/PlayerType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Type.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/ComponentType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/GamblerB.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/GamblerA.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/GamblerC.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/GamblerD.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/GameType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Common.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/ComponentType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/GameComponent.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/PlayerType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/Player.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/F4SE/ScriptObject.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Repository/Bash Installers/FO4_Gambling/Documents/ssdfsdf.txt",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Repository/Bash Installers/FO4_Gambling/.gitignore",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/F4SE/Game.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Actions/Play.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Components/View.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/Human.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/Seat.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/PlayerA.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/GUI.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/View.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Cards.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/Base/ObjectReference.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Main.psc",
+		"/D/My Files/haul Install.txt",
+		"/D/My Files/Accounts/PASS.txt",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/SeatType.psc",
+		"/C/Users/Scrivener07/Documents/My Games/Fallout4/Logs/Script/User/Gambling.0.log",
+		"/C/Users/Scrivener07/Desktop/Math.txt",
+		"/C/Users/Scrivener07/Desktop/note.txt",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/PlayerC.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/Dealer.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/PlayerD.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Scripting/Papyrus/Collections/List.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/Base/Default2StateActivator.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/Base/DefaultDisableHavokOnLoad.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/Base/DefaultEventCameraScript.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Actions/Item.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Actions/Move.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/PlayerB.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Competitors/PlayerE.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Deck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/ObjectFactory.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Cards/Shuffler.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Alloc.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Unalloc.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/User/Lava2007/AAA.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/User/Derp.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Shuffle.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Draw.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Cards/Deck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/Cards/Card.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Play.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/Deck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/Shoe.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/Card.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Shared/CardDeck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Common/CardDeck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/CardDeck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Context.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Common.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Scripting/Papyrus/Array.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Scratch.txt",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/CollectionType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/Properties.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/CardObject.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/List.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/ListType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Objects/Cards/CardObject.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Cards/Collection.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/CardDeck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Collections/Collection.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Collections/List.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Objects/Factory.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/Cards.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/CardObject.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Scripting/Papyrus/Objects/Factory.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/CardInstance.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/Card.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/F4SE/Utility.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Articles/Deck.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Factory.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Scripting/Papyrus/Collections/Collection.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Move.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/Test.psc",
+		"/C/Users/Scrivener07/Documents/My Games/Fallout4/Logs/Script/Papyrus.0.log",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Scripting/Papyrus/PointType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/F4SE/WaterType.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/F4SE/Cell.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temps/Item.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Players/Seat.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seat.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seats/PlayerA.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seats/PlayerC.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Temp.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Play.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seats/Dealer.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seats/PlayerB.psc",
+		"/D/Games/Steam/SteamApps/common/Fallout 4/Data/Scripts/Source/FO4_Gambling/Gambling/BlackJack/Seats/PlayerD.psc"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling\\BlackJack",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\F4SE",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling\\Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gambling",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\F4SE",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\DLC04",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\User\\ESM",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Character",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Favorites",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Gameplay",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Scripting",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Wasteland",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO4_Saving",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Interface\\Source\\MENUS\\HUDMenu",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Interface\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Scripting",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Wasteland",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Base",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Interface",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Interface\\Source",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\FO2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287\\FO2287\\GasMask",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287\\FO2287",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287\\Wasteland",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287\\Wasteland\\GasMask",
+			"D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Scripts\\Source\\Fallout2287\\Wasteland",
+			"M:\\DataShare\\TES5\\Bash Installers\\Scrivener07\\Scrivener07 - Loot and Degradation v1.31\\Scripts\\Source",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus\\View\\Helmet",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus",
+			"D:\\Games\\Steam\\SteamApps\\common\\Skyrim\\Data\\Scripts\\Source",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Flash\\HUDWidgets",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Flash\\ScribeOverlays",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Papyrus\\View",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays\\Flash",
+			"E:\\Lab\\Bethesda\\TES5\\Overlays",
+			"E:\\Git\\skyui\\dist\\Data\\Scripts\\Source",
+			"E:\\Lab\\Bethesda\\TES5\\Scribe\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Scribe\\Flash\\src\\Scribe",
+			"E:\\Lab\\Bethesda\\TES5\\Scribe\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Scribe\\Flash\\src\\Scribe\\Overlays",
+			"E:\\Studio\\Git\\skyui\\src",
+			"E:\\Studio\\Git",
+			"E:\\Studio\\Git\\skyui",
+			"E:\\Studio\\Git\\Campfire",
+			"E:\\Studio\\Git\\FF 3.0\\Source",
+			"E:\\Studio\\Git\\FF 3.0",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"E:\\Studio\\Git\\skyui\\dist\\Data\\Scripts",
+			"E:\\Studio\\Git\\skyui",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Flash",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Flash\\SkyUI",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Toxicity",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Toxicity",
+			"E:\\Lab\\Bethesda\\TES5\\Projects\\Scribe\\Source\\Papyrus\\Overlays",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Overlays",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Vitality",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI\\src",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev",
+			"D:\\Games\\Steam\\SteamApps\\common\\Skyrim\\Data\\Scripts\\Source",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"D:\\Games\\Steam\\SteamApps\\common\\Skyrim\\Data\\Scripts\\Source",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\SkyUI\\dist\\Data\\Scripts\\Source",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Flash\\WidgetFramework",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Dev\\Papyrus\\Helmet",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Developer\\Papyrus",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Project\\--Developer\\Papyrus\\Vitality",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Vitality\\--Dev\\Source",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Vitality\\Scripts",
+			"M:\\TES5\\Wrye\\Bash Installers\\Scribe Vitality\\Scripts\\Source"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"BotB",
+			"MyHand",
+			"BehaviorTake",
+			"Take",
+			"BotA",
+			"Hand",
+			"PlaceWager",
+			"OptionChoice",
+			"Controller",
+			"DoPlay",
+			"BlackJack",
+			"Idling",
+			"OnPlay",
+			"self.OnPlay()",
+			"()\n",
+			"Deal",
+			"The seat '\"+SeatID+\"' h",
+			"player",
+			"card",
+			"Gambling_BlackJack_P1C",
+			"Gambling_BlackJack_DeckMarker",
+			"SeatID",
+			"OptionWager1",
+			"Show",
+			"ID",
+			"GamblerD",
+			"GamblerC",
+			"GamblerB",
+			"GamblerA",
+			"EndEvent",
+			"aPlayer",
+			"BlackJack",
+			"Gambling:Shared:Common",
+			"Gambling:Common",
+			"GetPhaseEventArgs",
+			"Gambling:BlackJack:GameType.",
+			"GetCards",
+			"data",
+			"GetCards",
+			"Gambling_BlackJack_",
+			"references",
+			"BlackJack",
+			"GetScore",
+			"Table",
+			"Exit",
+			"ExitingPhase",
+			"Exit",
+			"PromptPlay",
+			"GamblerA",
+			"IdlePhase",
+			"Exit",
+			"ReadyPhase",
+			"Gambling_CellMarker",
+			"GameMode",
+			"PlayAction",
+			"Abort",
+			"View",
+			"Invalid",
+			"OptionStart",
+			"Gambling_BlackJack_MessagePlay",
+			"Gambling_BlackJack_Camera",
+			"Startup",
+			"player",
+			"Players:Player",
+			"Seats",
+			"seat",
+			"Idling",
+			"Exited",
+			"PlayerE",
+			"PlayerD",
+			"PlayerC",
+			"PlayerB",
+			"Seat",
+			"Competitors",
+			"Seat",
+			"CollectAll",
+			"GoHome",
+			"Competitors",
+			"akSender",
+			"View",
+			"Human",
+			"PlayerA",
+			"Gambling_Card",
+			"OnPhase",
+			"OnGamePhase(BlackJack:Game sender, PhaseEventArgs e)",
+			"OnGameEvent",
+			"akSender",
+			"ScoringState",
+			"PlayingState",
+			"DealingState",
+			"WageringState",
+			"StartingState",
+			"EmptyState",
+			"akSender",
+			"aName",
+			"aChange",
+			"SendPhase",
+			"BlackJack:Main",
+			"input",
+			"NewCards",
+			"Restore",
+			"Hand",
+			"Show",
+			"DealingState",
+			"StartingState",
+			"OnPhase",
+			"PlayerA",
+			"Gambling_BlackJack_MessageWin",
+			"Gambling_BlackJack_MessageWinNatural",
+			"Gambling_BlackJack_MessageBust",
+			"Gambling_BlackJack_MessagePlay",
+			"Find",
+			"Invalid",
+			"Allocate",
+			"Gambling_BlackJack_MessagePlayAgain",
+			"SetMotionType",
+			"= Gambling_",
+			"Controller",
+			"Deck",
+			"Gambling",
+			"ToPoint",
+			"Range",
+			"Difficultly",
+			"GetDifficultly",
+			"Difficultly",
+			"Shuffler",
+			"ShufflerValue",
+			"MyShuffler"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"BotSwatter",
+			"Cards",
+			"BehaviorDraw",
+			"BehaviorTake",
+			"BotWhale",
+			"MyHand",
+			"BehaviorWager",
+			"BehaviorTurn",
+			"Motion",
+			"GamePlay",
+			"DoPlay",
+			"self.DoPlay()",
+			"Take",
+			"H",
+			"human",
+			"value",
+			"Hand_CardMarker",
+			"SeatID",
+			"BotD",
+			"BotC",
+			"BotB",
+			"BotA",
+			"value",
+			"Gambling:Shared:Common",
+			"",
+			"Data",
+			"data.",
+			"References",
+			"IdlePhase",
+			"Gambling_BlackJack_CellMarker",
+			"Table",
+			"GameMode",
+			"Gambling_BlackJack_CameraMarker",
+			"aPlayer",
+			"Player",
+			"Players",
+			"player",
+			"Player",
+			"Idling",
+			"GamblerD",
+			"GamblerC",
+			"GamblerB",
+			"GamblerA",
+			"Player",
+			"Players",
+			"Player",
+			"Players",
+			"CollectAll",
+			"sender",
+			"Human",
+			"Gambling_BlackJack_DeckMarker",
+			"PhaseEvent",
+			"OnGamePhase(PhaseEventArgs e)",
+			"OnGamePhase",
+			"sender",
+			"ScoringPhase",
+			"PlayingPhase",
+			"DealingPhase",
+			"WageringPhase",
+			"StartingPhase",
+			"ReadyPhase",
+			"sender",
+			"name",
+			"change",
+			"Gambling:BlackJack:GameType.SendPhase",
+			"BlackJack:Game",
+			"InputLayer",
+			"Allocate",
+			"= Gambling_BlackJack_",
+			"ToPosition",
+			"Last",
+			"CardsShuffler",
+			"ShufflerValue",
+			"plugin",
+			"formid",
+			"rank",
+			"suit",
+			"Visual",
+			"Shuffle",
+			"Order",
+			"NextOrder",
+			"Order",
+			"instance",
+			"Card:Data",
+			"Data",
+			"import Gambling:Shared",
+			"CardDeck",
+			"\tCardDeck:Card",
+			" CardDeck:Card",
+			"Reference",
+			"LockThread",
+			"Deck",
+			"Cards",
+			"ActorLuck",
+			"Deck",
+			"aIndex",
+			"Add",
+			"Dimension",
+			"Club",
+			"Cards",
+			"Card",
+			"Cards_01",
+			"Data",
+			"Cards",
+			"Cards_01",
+			"CardDeck:Card",
+			"Elements",
+			"Array",
+			"array.Add",
+			"BlackJack",
+			"Remove",
+			"Starting",
+			"Main.Cards.Deck.Draw()",
+			"IsWin",
+			"Exit",
+			"Quit",
+			"Exited",
+			"Ending",
+			"Beginning",
+			"",
+			"Begun",
+			"Ended",
+			"Main",
+			"Game",
+			"WriteLine(self, ",
+			"Index",
+			"idx",
+			"seat '\"+ID+\"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 392.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Papyrus - Compile Project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"WriteLine"
+			],
+			[
+				"SetEffect",
+				"SetEffectDetrimental"
+			]
+		],
+		"width": 472.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 371.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
