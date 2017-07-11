@@ -15,7 +15,10 @@ See also the papyrus project [documentation](http://www.creationkit.com/fallout4
 I recommend extracting to the creation kit tools folder `\Steam\SteamApps\common\Fallout 4\Tools\Sublime`.
 Create this folder if it does not exist.
 * Open the file `Fallout 4.sublime-project` in a text editor and point the directories to an appropiate path for your computer.
+
+## Usage
 * Launch Sublime Text **with** the file `Fallout 4.sublime-project` by double-clicking it.
+* On the Sublime Text file menu, go to `Tools->Build System` and select `Automatic` or `Papyrus - Compile Project`.
 * Select a `.ppj` file in the directory explorer within Sublime Text and press `Ctrl+B`.
 
 ## License
