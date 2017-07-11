@@ -20,7 +20,7 @@ Create this folder if it does not exist.
 ## Usage
 * Launch Sublime Text *with* the file `Fallout 4.sublime-project` by double-clicking it.
 * On the Sublime Text file menu, go to `Tools->Build System` and select `Automatic` or `Papyrus - Compile Project`.
-* Select a `.ppj` file in the directory explorer within Sublime Text and press `Ctrl+B`.
+* Select a `.ppj` file in the sidebar within Sublime Text and press `Ctrl+B`.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
