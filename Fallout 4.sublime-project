@@ -24,18 +24,8 @@
 			"path": "C:\\Users\\Scrivener07\\Documents\\My Games\\Fallout4"
 		},
 		{
-			"file_exclude_patterns":
-			[
-				"*.7z"
-			],
-			"folder_exclude_patterns":
-			[
-				".hidden",
-				"Bain Converters",
-				"Fallout 4*"
-			],
-			"name": "Repository",
-			"path": "D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Repository\\Bash Installers"
+			"name": "AppData",
+			"path": "C:\\Users\\Scrivener07\\AppData\\Local\\Fallout4"
 		},
 		{
 			"file_exclude_patterns":
